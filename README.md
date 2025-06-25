@@ -25,8 +25,8 @@
 
 ### 📧 Contact Me
 - 📧 Email: **abuhojaifa123@gmail.com**
-- 📄 [**My Resume**](https://drive.google.com/file/d/1W1CI39uk4rKvEBPb3H9vt8RlTUXmIXNS/view?usp=drive_link)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/md-abu-hujaifa/)
+- 📄 [**My Resume**](https://drive.google.com/file/d/1W1CI39uk4rKvEBPb3H9vt8RlTUXmIXNS/view?usp=drive_link)
 
 ### 🎓 Languages and Tools
 <p align="left">
