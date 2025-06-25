@@ -18,7 +18,7 @@
 - ✨ I’m currently learning **Next.js**
 
 ### 💻 Portfolio
-- 👨‍💼 Explore all my projects at [**My Portfolio**](https://sprightly-pie-2f0561.netlify.app/)
+- 🌐 Explore my development work, personal insights and more at [**My Portfolio**](https://sprightly-pie-2f0561.netlify.app/)
 
 ### 💬 Ask Me About
 - **React.js**, **Express.js**, **Node.js**, **MongoDB**
