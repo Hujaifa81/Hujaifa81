@@ -26,13 +26,7 @@
 ### 📧 Contact Me
 - 📧 Email: **abuhojaifa123@gmail.com**
 - 📄 [**My Resume**](https://drive.google.com/file/d/1W1CI39uk4rKvEBPb3H9vt8RlTUXmIXNS/view?usp=drive_link)
-
-### 👥 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/md-abu-hujaifa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/md-abu-hujaifa/)
 
 ### 🎓 Languages and Tools
 <p align="left">
